@@ -1,6 +1,6 @@
 # Introduction
 
-This project uses dual quaternions to represent and transform manufactured parts and fixtures. The purpose to predict the geometry of the manufactured part given variation sources’ information. The implementation is based on the case study reported in [1] and the results are reported in [2].
+This project uses dual quaternions to represent and transform manufactured parts and fixtures. The purpose is to predict the geometry of the manufactured part given variation sources’ information. The implementation is based on the case study reported in [1] and the results are reported in [2].
 
 # Additional Libraries 
 The code is dependent on the libraries below.
