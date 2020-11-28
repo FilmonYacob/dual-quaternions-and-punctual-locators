@@ -293,7 +293,7 @@ L5 = Plucker.pointdir(Ps(5, :), -ULPT);
 
 err = Ps(4:5, :) - [p4'; p5'];
 % assert(err(1, 2)-err(2, 2) < tol) % checks equal distance
-
+ 
 T = vec8(1-E_*err(1, :)/2);
 v8WorkPiece = moveFeaturesBy(v8WorkPiece, T);
 
