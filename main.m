@@ -1,7 +1,7 @@
 % Validates the DQ-based appraoch against stream of variation models %
 clear; clc; close all;
 rng('default')
-include_namespace_dq % (This library can be removed to increase execution speed).
+include_namespace_dq %(This library can be removed to increase execution speed).
 tic 
 % Nominal fixture info
 nominalPs = [30, 10, 0; ...
