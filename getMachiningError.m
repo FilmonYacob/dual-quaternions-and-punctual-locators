@@ -1,7 +1,7 @@
 function planeWithMachErr = getMachiningError(mPlane, thetas, Ds, axis, axisPoint)
 % (1) geometric, kinematic, thermal variations of the machine tool axes,
 % (2) spindle-thermal variations,theta assumed 0
-% (3) the cutting-force induced variation,
+% (3) cutting-force induced variation,
 % (4) cutting-tool wear-induced variation.
 
 include_namespace_dq
