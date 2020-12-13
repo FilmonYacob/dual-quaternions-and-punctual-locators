@@ -4,8 +4,8 @@ This project uses dual quaternions to represent and transform manufactured parts
 
 # Additional Libraries 
 The code is dependent on the libraries below.
-1.	https://github.com/dqrobotics/matlab
-2.	www.mathworks.com/matlabcentral/fileexchange/39288-dual-quaternion-toolbox
+1.	DQ Robotics https://github.com/dqrobotics/matlab
+2.	Dual quaternion toolbox www.mathworks.com/matlabcentral/fileexchange/39288-dual-quaternion-toolbox
 3.	Plucker.m of https://github.com/petercorke/spatial-math
 
 # Reference
