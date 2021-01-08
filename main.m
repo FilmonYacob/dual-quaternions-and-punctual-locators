@@ -1,3 +1,6 @@
+% Copyright(c) 2020, Filmon Yacob.
+% Distributed under the MIT License  
+
 % Validates the DQ-based appraoch against stream of variation models %
 clear; clc; close all;
 rng('default')
